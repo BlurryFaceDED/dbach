@@ -1,0 +1,23 @@
+#links{
+    text-align: right;
+    float: right;
+    padding: 6px;
+    color: red;
+}
+#log{
+    text-align: left;
+    float: left;
+    color: red;
+
+}
+#logo{
+    color: red;
+
+    text-align: center;
+    font-family: 'Brush Script MT', cursive;
+    float: left;
+}
+img{
+    border: 2px solid red;
+
+}
